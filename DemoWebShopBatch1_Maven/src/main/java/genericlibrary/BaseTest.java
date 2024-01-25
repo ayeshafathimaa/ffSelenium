@@ -19,6 +19,11 @@ import elementRepository.LoginPage;
 
 public class BaseTest {
 	
+	//
+	//
+	// new changes done 
+	//
+	//
 	public DataUtility data_Utility = new DataUtility();
 	public CommonUtility common_Utility = new CommonUtility();
 	public WebDriver driver ;
