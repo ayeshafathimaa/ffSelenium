@@ -19,6 +19,8 @@ public class TC03_WishListTest extends BaseTest {
 
 	@Test(groups = "System")
 	//
+	//
+	//
 	public void wishListTestCase() throws FileNotFoundException{
 		
 		//Step 6: Books page is displayed
