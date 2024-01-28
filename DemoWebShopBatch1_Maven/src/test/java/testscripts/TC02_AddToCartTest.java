@@ -44,7 +44,8 @@ public class TC02_AddToCartTest extends BaseTest{
 					product.click();
 					Thread.sleep(500);
 				}
-				
+				//
+				//
 				//Step 10: To navigate to shopping cart
 				driver.findElement(By.xpath("//span[text()='Shopping cart']")).click();
 						
